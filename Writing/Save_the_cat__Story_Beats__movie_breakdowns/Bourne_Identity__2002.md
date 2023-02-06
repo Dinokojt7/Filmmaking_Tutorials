@@ -2,7 +2,7 @@
 
 ## 1. **Opening image `[1]`**
 
-Underwater, tilted shot of unconscious Bourne foating belly up in the sea. The sea is storming.
+Underwater, tilted shot of unconscious Bourne floating belly up in the sea. The sea is storming.
 
 * Water might symbolize birth / rebirth.
 * Bourne the CIA Asset dies, and a new person in **bourne**.
@@ -24,13 +24,13 @@ He is pure intuition at this point.
 
 A flaw is introduced: **he is overly aggresive**. (Puts two police officers in hospital, just because he felt slightly threatened by them).
 
-He is esentaily a "loaded weapon with a broken trigger". He will have to learn how to controll he's intuition.
+He is essentially a "loaded weapon with a broken trigger." He will have to learn how to control his intuition.
 
-We see that Json is extremely confused by he's new found abilities.Frightened even.
+We see that Json is extremely confused by his new found abilities. Frightened even.
 
 ## 4. **Catalyst `[12]`**
 
-Bourne visits the bank in Zurrich. He hoped to find his identity, but paradoxicly he found several (no way of telling which is true) and a gun.
+Bourne visits the bank in Zurich. He hoped to find his identity, but paradoxically he found several (no way of telling which is true) and a gun.
 
 The action of visiting the bank allowed the CIA Treadstone team to locate Bourne. The manhunt begins. CIA sends the other Treadstone Assets after Jason. They want him dead, and he doesn't even know about them.
 
